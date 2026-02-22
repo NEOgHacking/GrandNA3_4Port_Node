@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MCU_RaspberryPi_Updated")(type "KiCad")(uri "${KIPRJMOD}/Library/symbols/MCU_RaspberryPi_Updated.kicad_sym")(options "")(descr ""))
+)

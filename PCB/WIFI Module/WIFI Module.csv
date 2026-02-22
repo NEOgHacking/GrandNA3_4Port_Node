@@ -1,0 +1,12 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C2,C4,C5,C3,C6";"C_0402_1005Metric";5;"100n";;;
+2;"TP2,TP1";"TestPoint_Pad_D1.0mm";2;"TestPoint";;;
+3;"L1";"L_0402_1005Metric";1;"2n";;;
+4;"R1";"R_0402_1005Metric";1;"10k";;;
+5;"C7,C8";"C_0402_1005Metric";2;"3p";;;
+6;"C1";"C_0603_1608Metric";1;"10u";;;
+7;"C10,C9";"C_0402_1005Metric";2;"14p";;;
+8;"U1";"QFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm";1;"ESP8684";;;
+9;"J1";"U.FL_Molex_MCRF_73412-0110_Vertical";1;"Conn_01x01_Shielded";;;
+10;"Y1";"Crystal_SMD_SeikoEpson_FA128-4Pin_2.0x1.6mm";1;"Q22FA12800230";;;
+11;"J2";"PinHeader_2x04_P2.54mm_Vertical";1;"Conn_02x04";;;

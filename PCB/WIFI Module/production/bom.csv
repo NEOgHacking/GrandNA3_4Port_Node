@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,10u,
+"C10, C9",0402,2,14p,
+"C2, C3, C4, C5, C6",0402,5,100n,
+"C7, C8",0402,2,3p,
+J1,U.FL_Molex_MCRF_73412-0110_Vertical,1,Conn_01x01_Shielded,
+J2,PinHeader_2x04_P2.54mm_Vertical,1,Conn_02x04,
+L1,0402,1,2n,
+R1,0402,1,10k,
+"TP1, TP2",TestPoint_Pad_D1.0mm,2,TestPoint,
+U1,QFN-24-1EP_4x4mm_P0.5mm_EP2.8x2.8mm,1,ESP8684,
+Y1,Crystal_SMD_SeikoEpson_FA128-4Pin_2.0x1.6mm,1,Q22FA12800230,

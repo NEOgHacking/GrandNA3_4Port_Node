@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+C1,0603,1,4u7,
+C2,0603,1,100n,
+J1,FPC-SMD_5034801200,1,Conn_01x12_MountingPin,
+J2,IDC-Header_2x06_P2.54mm_Vertical,1,IDC,
+J3,FPC-SMD_18P-P0.50_JS_AFC01-S18FCA-00,1,Conn_01x18_MountingPin,
+Q2,SOT-23,1,BSS138,
+R1,0603,1,10R,
+"R2, R3, R4",0603,3,10k,
+SW2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,EC11E18244AU,
+U1,SOT-23,1,APX803S-31SA-7,C129757
