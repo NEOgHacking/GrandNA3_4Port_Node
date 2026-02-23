@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "ea222f80-17f5-4c2f-adf6-75dd6e9df20d")
 	(paper "A4")
+	(title_block
+		(title "GrandNA3_4Port_Node")
+	)
 	(lib_symbols
 		(symbol "Connector:RJ45"
 			(pin_names

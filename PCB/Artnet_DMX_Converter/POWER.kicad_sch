@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "ec1e672f-70f1-4e91-af74-f21d7bf7787c")
 	(paper "A4")
+	(title_block
+		(title "GrandNA3_4Port_Node")
+	)
 	(lib_symbols
 		(symbol "Battery_Cell_1"
 			(pin_numbers

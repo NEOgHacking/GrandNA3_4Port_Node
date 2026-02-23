@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "7d5b1976-98b3-4e47-ae52-3fe360235ea3")
 	(paper "A4")
+	(title_block
+		(title "GrandNA3_4Port_Node")
+	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole_Pad"
 			(pin_numbers

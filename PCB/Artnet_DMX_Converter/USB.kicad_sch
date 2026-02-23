@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "bc75395d-b448-49ed-963f-616dc3e05860")
 	(paper "A4")
+	(title_block
+		(title "GrandNA3_4Port_Node")
+	)
 	(lib_symbols
 		(symbol "Connector:USB_C_Receptacle_USB2.0_14P"
 			(pin_names
