@@ -9615,26 +9615,6 @@
 				(hide yes)
 			)
 		)
-		(property private "KLC_S4.2_DVDD" "Not a standalone power converter; internal on-chip voltage regulator for digital core supply; DVDD is the digital core power supply, should be placed next to voltage regulator output."
-			(at 146.05 100.33 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property private "KLC_S4.2_VREG_LX" "Should be placed next to DVDD."
-			(at 146.05 100.33 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "KLC_S3.3" ""
 			(at 146.05 97.79 0)
 			(effects
@@ -11388,26 +11368,6 @@
 		)
 		(property "Description" "Four pin crystal, GND on pins 2 and 4"
 			(at 62.23 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property private "KLC_S3.3" "The rectangle is not a symbol body but a graphical element"
-			(at 49.53 116.84 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
-			(at 46.99 116.84 0)
-			(show_name yes)
 			(effects
 				(font
 					(size 1.27 1.27)

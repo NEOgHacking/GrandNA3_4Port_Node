@@ -15995,26 +15995,6 @@
 				(hide yes)
 			)
 		)
-		(property private "KLC_S3.3" "The rectangle is not a symbol body but a graphical element"
-			(at 27.94 68.58 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
-			(at 27.94 66.04 0)
-			(show_name yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "KLC_S4.2_DVDD" ""
 			(at 27.94 81.28 0)
 			(effects
@@ -16558,7 +16538,7 @@
 				)
 			)
 		)
-		(property "Value" "VO618A-3X017T"
+		(property "Value" "VO618A-3X019T"
 			(at 241.3 135.636 0)
 			(effects
 				(font
