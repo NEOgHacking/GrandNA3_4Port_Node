@@ -52878,6 +52878,15 @@
 		(uuid "58978249-1fa4-4e88-97a8-603ba3cf8c9f")
 	)
 	(via
+		(at 64.95 58.2)
+		(size 0.6)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(free yes)
+		(net 11)
+		(uuid "5c5ba5a1-fae7-4861-bff1-d8790c5542bf")
+	)
+	(via
 		(at 113.55 30.65)
 		(size 0.6)
 		(drill 0.3)
