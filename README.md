@@ -1,3 +1,4 @@
+![Render](Assets/GrandNA3_4Port_Node_text.jpg)
 # GrandNA3_4Port_Node
 GrandNA3_4Port_Node is a DMX network node based on the official grandMA3 onPC 4Port Node 4k. My version also has 4DMX outputs with RDM support, a EtherCON connector for sturdy Ethernet connections and a display with a knob for configuration. It also uses the Neutrik halo connectors with adressable rgb leds to show the status of the connection. But it also has some differences. First it doesn't unlock any parameters in the GrandMA onPC software, second its 20x cheaper. About $100 instead of $2000.
 
@@ -22,3 +23,25 @@ I used KiCad for PCB design, Onshape for 3D design and VScode for Firmware.
 
 # Schematic
 This is a very long schematic. You can find the whole schematics in .PDF format in the individual PCB design folders. But here are some important ones.
+First the main schematic of the main PCB.
+![Main schematic](Assets/Main_PCB_Schematic.png)
+Then the schematic of the display module.
+![Display module schematic](Assets/Display_PCB_Schematic.png)
+And finally the esp wifi module.
+![WIFI module schematic](Assets/WIFI_PCB_Schematic.png)
+
+# PCB's
+So this project has 3 PCB's, first the main PCB that does all the hard work, then a display PCB with a rotary encoder and support components for a bare LCD and finally a custom made WIFI module PCB based on the esp.
+![Main PCB](Assets/Main_PCB.png)
+![Display_module PCB](Assets/Display_PCB.png)
+![WIFI_module PCB](Assets/WIFI_PCB.png)
+(there is a glitch in this game, every project i do i get exactly 3 PCB's)
+
+# Case
+For this project there needed to be a case to protect the PCB from the outside world. I did this in onshape and am happy with the end result.
+![Open_case](Assets_Open_case.png)
+![Full_case](Assets_Full_case.png)
+
+
+# BOM
+todo
