@@ -39,8 +39,8 @@ So this project has 3 PCB's, first the main PCB that does all the hard work, the
 
 # Case
 For this project there needed to be a case to protect the PCB from the outside world. I did this in onshape and am happy with the end result.
-![Open_case](Assets_Open_case.png)
-![Full_case](Assets_Full_case.png)
+![Open_case](Assets/Open_case.png)
+![Full_case](Assets/Full_case.png)
 
 
 # BOM
